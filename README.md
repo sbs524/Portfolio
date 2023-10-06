@@ -8,6 +8,11 @@
 - Blog : [가게가 스토리](https://gagega.tistory.com)
 - E-mail : myura123@naver.com
 
+## certificate
+- 정보처리기사
+- 워드프로세서
+- 일본어 : JLPT 1급
+- 영어 : Opic IM2
 ## Experiences
 
 ### Data Analysis
