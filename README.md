@@ -10,7 +10,7 @@
 
 ## Experiences
 ### Data Analysis
--`2023-08` [LG Aimers](https://github.com/sbs524/LGAimers) : CNN과 RNN을 활용하여 시계열 데이터 예측
+- `2023-08` [LG Aimers](https://github.com/sbs524/LGAimers) : CNN과 RNN을 활용하여 시계열 데이터 예측
 
 ###Game
 - `2022-07` [Jump Game](https://www.youtube.com/watch?v=A3T1QaHFnVU) : Unreal Engine5를 활용하여 제작한 게임
