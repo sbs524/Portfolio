@@ -11,6 +11,7 @@
 ## certificate
 - 정보처리기사
 - 워드프로세서
+- MOS 2010 PPT, Excel
 - JLPT 1급
 - Opic IM2
 ## Experiences
