@@ -10,17 +10,17 @@
 
 ## Experiences
 ### Data Analysis
--'2023-08' [LG Aimers](https://github.com/sbs524/LGAimers) : CNN과 RNN을 활용하여 시계열 데이터 예측
+-`2023-08` [LG Aimers](https://github.com/sbs524/LGAimers) : CNN과 RNN을 활용하여 시계열 데이터 예측
 
 ###Game
-- '2022-07' [Jump Game](https://www.youtube.com/watch?v=A3T1QaHFnVU) : Unreal Engine5를 활용하여 제작한 게임
-- '2023-01' [Survival Alone](https://github.com/sbs524/Alone-Unity-) : Unity를 활용한 생존게임
+- `2022-07` [Jump Game](https://www.youtube.com/watch?v=A3T1QaHFnVU) : Unreal Engine5를 활용하여 제작한 게임
+- `2023-01` [Survival Alone](https://github.com/sbs524/Alone-Unity-) : Unity를 활용한 생존게임
 
 ### Socket Programming
-- '2023-09' [Chat Program](https://github.com/sbs524/Socket_Programming_with_Ubuntu) : Ubuntu환경에서 C언어를 활용하여 개발한 채팅 프로그램
+- `2023-09` [Chat Program](https://github.com/sbs524/Socket_Programming_with_Ubuntu) : Ubuntu환경에서 C언어를 활용하여 개발한 채팅 프로그램
 
 
 
 ### html
-- '2021-08' [Cyworld](https://github.com/sbs524/mini-homepage) : html과 css를 활용한 홈페이지
+- `2021-08` [Cyworld](https://github.com/sbs524/mini-homepage) : html과 css를 활용한 홈페이지
   
