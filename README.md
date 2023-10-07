@@ -27,7 +27,7 @@
 - `2023-09` [Chat Program](https://github.com/sbs524/Socket_Programming_with_Ubuntu) : Ubuntu환경에서 C언어를 활용하여 개발한 채팅 프로그램
 
 ### Arduino
-- '2022-12' [Christmax_box](https://github.com/sbs524/Aduino_Christmas_box) : Arduino에서 C++을 활용한 음성인식 장난감
+- `2022-12` [Christmax_box](https://github.com/sbs524/Aduino_Christmas_box) : Arduino에서 C++을 활용한 음성인식 장난감
 
 ### html
 - `2021-08` [Cyworld](https://github.com/sbs524/mini-homepage) : html과 css를 활용한 홈페이지
