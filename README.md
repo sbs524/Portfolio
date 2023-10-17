@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Introduction
-개발을 좋아하는 엔지니어입니다. 현재는 데이터사이언티스트가 되기 위해 노력중입니다.
+개발을 좋아하는 엔지니어입니다.
 
 ## Contacts
 - Github : [sbs524](https://github.com/sbs524)
