@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Introduction
-개발을 좋아하는 엔지니어입니다.
+컴퓨터 공학과에 재학중인 대학생입니다.
 
 ## Contacts
 - Github : [sbs524](https://github.com/sbs524)
