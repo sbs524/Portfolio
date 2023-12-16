@@ -15,6 +15,9 @@
 - Opic IM2
 ## Experiences
 
+### Backend
+- `2023-10` [브로컬리](https://github.com/sbs524/Capstone) : RESTful API 구현
+
 ### Data Analysis
 - `2023-08` [LG Aimers](https://github.com/sbs524/LGAimers) : CNN과 RNN을 활용하여 시계열 데이터 예측
 
