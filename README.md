@@ -5,7 +5,6 @@
 
 ## Contacts
 - Github : [sbs524](https://github.com/sbs524)
-- Blog : [가게가 스토리](https://gagega.tistory.com)
 - E-mail : myura123@naver.com
 
 ## certificate
