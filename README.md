@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Introduction
-컴퓨터 공학과에 재학중인 대학생입니다.
+2024년부터 웹 개발자로 재직중입니다.
 
 ## Contacts
 - Github : [sbs524](https://github.com/sbs524)
@@ -9,11 +9,15 @@
 
 ## certificate
 - 정보처리기사
+- SQLD
 - 워드프로세서
 - MOS 2010 PPT, Excel
 - JLPT 1급
 - Opic IM2
 ## Experiences
+
+### Automate
+- `2026-03` [나라장터 사업 발굴 자동화](https://github.com/sbs524/koneps-noti) : 파이썬으로 나라장터의 데이터를 가져와 Slack에 알림
 
 ### Backend
 - `2023-10` [브로컬리](https://github.com/sbs524/Capstone) : RESTful API 구현
